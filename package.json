@@ -1,0 +1,24 @@
+{
+  "name": "@mattstyles/alias",
+  "version": "1.0.0",
+  "description": "The amazing string mutator",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattstyles/alias.git"
+  },
+  "keywords": [
+    "aka",
+    "string",
+    "mutate"
+  ],
+  "author": "Matt Styles <matt@veryfizzyjelly.com> (http://github.com/mattstyles)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattstyles/alias/issues"
+  },
+  "homepage": "https://github.com/mattstyles/alias#readme"
+}
